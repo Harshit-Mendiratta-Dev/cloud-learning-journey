@@ -1,11 +1,9 @@
-# Day [2] - [OSI Model, Transport Protocols & Terminal Diagnostics]
-**Date:** [2026-08-17]
+# Day 2 - OSI Model, Transport Protocols & Terminal Diagnostics
+**Date:** 2026-08-17
 **Focus Area:** OSI 7-Layer Stack, TCP/UDP Mechanics, Common Ports, and Layer 4/7 CLI Diagnostics
 **Time Spent:** 3.5 Hours
 
 ## 1. Key Concepts Learned (1.5h Theory)
-* **Concept:** ...
-* 
 * ### The OSI Model & PDUs
 Data flows down the stack during **Encapsulation** (adding headers) and up the stack during **Decapsulation** (stripping headers).
 
