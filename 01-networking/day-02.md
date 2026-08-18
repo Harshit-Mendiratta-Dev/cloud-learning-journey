@@ -1,4 +1,4 @@
-# Day 2 - OSI Model, Transport Protocols & Terminal Diagnostics
+# Day 02 - OSI Model, Transport Protocols & Terminal Diagnostics
 **Date:** 2026-08-17
 **Focus Area:** OSI 7-Layer Stack, TCP/UDP Mechanics, Common Ports, and Layer 4/7 CLI Diagnostics
 **Time Spent:** 3.5 Hours
