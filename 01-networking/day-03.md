@@ -1,4 +1,4 @@
-# Day 03: Network Diagnostics & Port Auditing
+# Day 03 - Network Diagnostics & Port Auditing
 **Date:** 2026-08-18
 **Focus Area:** Phase 1 - Networking
 **Time Spent:** 2.5 Hours
