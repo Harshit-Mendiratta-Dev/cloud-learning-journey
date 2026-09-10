@@ -1,7 +1,7 @@
 # Day 25 - Wireless Networking: 802.11, Bands, Channels & Security
 **Date:** 2026-09-09
 **Focus Area:** Phase 1 - Networking
-**Time Spent:** 3.5 Hours
+**Time Spent:** 2.0 Hours
 
 ## 1. Key Concepts Learned (1.5h Theory)
 
@@ -27,7 +27,7 @@
   - **MCS Index (Modulation and Coding Scheme)** — a technical index representing how efficiently data is being encoded over the link based on current signal conditions; higher generally means better conditions being exploited for higher throughput
   - **PHY Mode** — which 802.11 standard (a/b/g/n/ac/ax) the current connection is actively using
 
-## 2. Hands-on Lab & Commands (2.0h Lab)
+## 2. Hands-on Lab & Commands (0.5h Lab)
 ```bash
 system_profiler SPAirPortDataType
 ```
