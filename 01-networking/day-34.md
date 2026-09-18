@@ -1,7 +1,7 @@
 # Day 34 - Dynamic Routing: RIP, OSPF, and BGP
 **Date:** 2026-09-18
 **Focus Area:** Phase 1 - Networking (Dynamic Routing Protocols)
-**Time Spent:** 3.5 Hours
+**Time Spent:** 2.5 Hours
 
 ## 1. Key Concepts Learned (Built Through Iterative Reasoning and Synthesis)
 
